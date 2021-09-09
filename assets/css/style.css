@@ -324,6 +324,11 @@
   background-color: #01a6a4;
 }
 
+.submit-btn:active {
+  background-color: white;
+  color: #01a6a4;
+  border: #d9d9d9;
+}
 /*--- 利用規約 ---*/
 .agreement {
   font-size: 12px;
